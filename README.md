@@ -1,2 +1,2 @@
-# C-C-problems-
-In this repository i have my c/c++ code problems that i solved during my Structured programming class
+# C / C++ 
+In this repository, I have the C/C++ code problems I solved during my structured programming class.
